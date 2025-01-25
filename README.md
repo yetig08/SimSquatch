@@ -1,6 +1,6 @@
-GSPro third party connector to Uneekor Eye Mini Lite using GSPro Open API
+GSPro third party connector for Uneekor Eye Mini Lite using GSPro Open API
 
-Start Uneekor View software and GSPro using the Open API Licence.  One the GSPro connector window is open, start SimSquatch
+Start Uneekor View software and GSPro using the Open API Licence.  Once the GSPro connector window is open, start SimSquatch
 Once the application opens, it will search for the Uneekor folder on your computer, if it has been installed anywhere but C:\Uneekor, you will be prompted to select the location of that folder.
 Next, click Start Connection Button and start hitting shots.  
 
