@@ -1,5 +1,7 @@
 GSPro third party connector for Uneekor Eye Mini Lite using GSPro Open API
 
+To use, select the green code button above, then choose download zip, save to your computer and unzip.  You can then run the setup.exe program to install or run the simsquatch.exe file located in the Application Files/SimSquatch_1_0_0_1 folder.
+
 Start Uneekor View software and GSPro using the Open API Licence.  Once the GSPro connector window is open, start SimSquatch.  
 Once the application opens, it will search for the Uneekor folder on your computer, if it has been installed anywhere but C:\Uneekor, you will be prompted to select the location of that folder.
 Next, click Start Connection Button and start hitting shots.  
