@@ -1,6 +1,6 @@
 GSPro third party connector for Uneekor using GSPro Open API
 
-Version 1.1 is live and includes automated putting mode as well as additional data point for EyeXo, and others...
+Version 1.1 is live and includes automated putting mode as well as additional data points for EyeXo, and others...
 
 To use, select the green code button above, then choose download zip, save to your computer and unzip.  Then run the simsquatch.exe file.
 
